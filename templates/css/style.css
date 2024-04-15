@@ -1,0 +1,22 @@
+
+
+
+/* Test */
+
+.mg-form{
+    margin-bottom: 15px;
+}
+
+.mg-btn{
+    margin-top: 20px;
+    width: 15%;
+}
+
+.login-user{
+    margin-bottom: 25px;
+}
+
+.error{
+    color: red;
+    font-size: 90%;
+}
